@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gowths20/records.git/static/css/main.713ac12f.chunk.css",
+    "main.js": "/gowths20/records.git/static/js/main.3c4c23f2.chunk.js",
+    "main.js.map": "/gowths20/records.git/static/js/main.3c4c23f2.chunk.js.map",
+    "runtime-main.js": "/gowths20/records.git/static/js/runtime-main.2b787e26.js",
+    "runtime-main.js.map": "/gowths20/records.git/static/js/runtime-main.2b787e26.js.map",
+    "static/js/2.56346cfd.chunk.js": "/gowths20/records.git/static/js/2.56346cfd.chunk.js",
+    "static/js/2.56346cfd.chunk.js.map": "/gowths20/records.git/static/js/2.56346cfd.chunk.js.map",
+    "index.html": "/gowths20/records.git/index.html",
+    "precache-manifest.dad2d7b4dd46c6360cec2c554381c5f2.js": "/gowths20/records.git/precache-manifest.dad2d7b4dd46c6360cec2c554381c5f2.js",
+    "service-worker.js": "/gowths20/records.git/service-worker.js",
+    "static/css/main.713ac12f.chunk.css.map": "/gowths20/records.git/static/css/main.713ac12f.chunk.css.map",
+    "static/js/2.56346cfd.chunk.js.LICENSE": "/gowths20/records.git/static/js/2.56346cfd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b787e26.js",
+    "static/js/2.56346cfd.chunk.js",
+    "static/css/main.713ac12f.chunk.css",
+    "static/js/main.3c4c23f2.chunk.js"
+  ]
+}
